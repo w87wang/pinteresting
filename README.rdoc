@@ -1,3 +1,4 @@
 == README
 
-Creating a Clone of Pinterest
+View it here:
+https://waw-pinteresting.herokuapp.com/
