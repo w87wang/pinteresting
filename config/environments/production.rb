@@ -77,7 +77,7 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   #Required for Heroku
-  config.action_mailer.default_url_options = { :host => 'waw-pinteresting.herokuapp.com' }
+  config.action_mailer.default_url_options = { :host => 'waw-Sceneresting.herokuapp.com' }
 
   # config.paperclip_defaults = {
   #   :storage => :s3,
